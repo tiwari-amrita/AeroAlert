@@ -31,51 +31,7 @@ Frontend (Admin Panel): ReactJS / NestJS-based Admin Dashboard
 
 📌 Telegram Bot Handle
 
-@WeatherWiseBot
-
-🔧 Installation & Setup
-
-1️⃣ Clone the Repository
-
-git clone [https://github.com/tiwari-amrita/AeroAlert.git]
-cd WeatherWiseBot
-
-2️⃣ Install Dependencies
-
-npm install
-
-3️⃣ Set Up Environment Variables
-
-Create a .env file in the root directory and add the required API keys and credentials.
-
-Example .env file:
-
-TELEGRAM_BOT_TOKEN=your-telegram-bot-token
-
-WEATHER_API_KEY=your-weather-api-key
-
-GOOGLE_CLIENT_ID=your-google-client-id
-
-GOOGLE_CLIENT_SECRET=your-google-client-secret
-
-TELEGRAM_BOT_TOKEN: Create a bot using BotFather on Telegram.
-
-WEATHER_API_KEY: Get it from OpenWeatherMap.
-
-GOOGLE_CLIENT_ID & GOOGLE_CLIENT_SECRET: Generate OAuth2 credentials in the Google Developer Console.
-
-4️⃣ Run the Bot Locally
-
-npm run start
-This starts the Telegram bot and the admin panel at http://localhost:3000.
-
-5️⃣ Deploy the Bot (Optional)
-
-For production deployment, use Docker or a cloud provider like Heroku, AWS, or Vercel.
-
-
-```markdown
-# WeatherWiseBot 🌤️ – Your Daily Weather Companion on Telegram
+@WeatherWiseBot – Your Daily Weather Companion on Telegram
 
 
 ## 🚀 Key Features
@@ -97,8 +53,6 @@ For production deployment, use Docker or a cloud provider like Heroku, AWS, or V
 - **Weather API**: OpenWeatherMap (or another API of your choice)
 - **Admin Panel Frontend**: ReactJS / NestJS-based Admin Dashboard
 
-## 📌 Telegram Bot Handle
-[@WeatherWiseBot]
 
 ---
 
@@ -109,6 +63,9 @@ For production deployment, use Docker or a cloud provider like Heroku, AWS, or V
 git clone https://github.com/tiwari-amrita/WeatherWiseBot.git
 cd WeatherWiseBot
 ```
+
+---
+
 
 ### 2️⃣ Install Dependencies
 ```bash
