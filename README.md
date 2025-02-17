@@ -4,34 +4,10 @@ WeatherWiseBot 🌤️- Telegram Weather Bot with NestJS
 
 WeatherWiseBot is a Telegram bot built using NestJS that provides users with daily weather updates. It also includes an admin panel with Google Login authentication, allowing admins to manage bot settings and user accounts efficiently.
 
-🚀 Features
-
-🌤️ Daily Weather Updates
-
-Users can subscribe to receive weather updates daily.
-
-Weather data is fetched from a third-party weather API.
-
-🔐 Admin Panel
-
-Google Login authentication for secure access.
-
-Admins can update bot settings (e.g., API keys, update intervals).
-
-User management: block or delete users.
-
-🛠 Tech Stack
-
-Backend Framework: NestJS
-Database: MongoDB (optional, for user management)
-Authentication: Google OAuth2
-Telegram Bot API: node-telegram-bot-api
-Weather API: OpenWeatherMap (or another API of choice)
-Frontend (Admin Panel): ReactJS / NestJS-based Admin Dashboard
 
 📌 Telegram Bot Handle
 
-@WeatherWiseBot – Your Daily Weather Companion on Telegram
+[@WeatherWiseBot]([https://web.telegram.org/a/#7603021733]) – Your Daily Weather Companion on Telegram
 
 
 ## 🚀 Key Features
