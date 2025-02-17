@@ -26,7 +26,7 @@ WeatherWiseBot is a Telegram bot built using NestJS that provides users with dai
 
 ## 📌 Telegram Bot Handle
 
-[@WeatherWiseBot]([https://web.telegram.org/a/#7603021733]) – Your Daily Weather Companion on Telegram
+[@WeatherWiseBot] ([(https://t.me/Weather_WiseBot ]) – Your Daily Weather Companion on Telegram
 
 
 
