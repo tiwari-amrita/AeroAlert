@@ -94,10 +94,10 @@ This project is licensed under the MIT License.
 ![Bot Interface](images/Interface.png)
 
 ### 2️⃣ Admin Panel
-<img src="images/admin.png" width="700">
+<img src="images/Admin.png" width="700">
 
 ### 3️⃣ Dashboard 
-<img src="images/dash.png" width="700">
+<img src="images/Dash.png" width="700">
 
 ### 4️⃣ Database
 <img src="images/Database.png" width="700">
