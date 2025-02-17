@@ -73,43 +73,10 @@ This starts the Telegram bot and the admin panel at http://localhost:3000.
 
 For production deployment, use Docker or a cloud provider like Heroku, AWS, or Vercel.
 
-🚀 Deployment
-
-You can deploy the bot and admin panel using AWS, Vercel, Railway, or any cloud provider of your choice.
-
-👨‍💻 Author
-
-Amrita Tiwari
-
-tiwariamrita2005@gmail.com
-
-[https://www.linkedin.com/in/amrita-tiwari033617293]
-
-📜 License
-
-This project is licensed under the MIT License..
-
-📷 Screnshotse
-
-## 🌟 Screenshots
-### 1️⃣ Bot in Action
-![Bot Interface](images/Interface.png)
-
-### 2️⃣ Admin Panel
-<img src="images/admin panel.png" width="700">
-
-
-
-
-
-
-Here’s how the README file will look like in markdown format:
 
 ```markdown
 # WeatherWiseBot 🌤️ – Your Daily Weather Companion on Telegram
 
-## 📌 Project Overview
-WeatherWiseBot is a powerful and user-friendly Telegram bot built using NestJS that provides users with daily weather updates, ensuring they’re always prepared for the day ahead. The bot also features an intuitive admin panel, secured with Google Login authentication, to efficiently manage bot settings and user accounts.
 
 ## 🚀 Key Features
 
@@ -131,7 +98,7 @@ WeatherWiseBot is a powerful and user-friendly Telegram bot built using NestJS t
 - **Admin Panel Frontend**: ReactJS / NestJS-based Admin Dashboard
 
 ## 📌 Telegram Bot Handle
-[@WeatherWiseBot](https://t.me/WeatherWiseBot)
+[@WeatherWiseBot]
 
 ---
 
@@ -192,7 +159,9 @@ This project is licensed under the MIT License.
 
 ---
 
-## 📷 Screenshots
+📷 Screenshots
+### 1️⃣ Bot in Action
+![Bot Interface](images/Interface.png)
 
-
-You can copy this into a `README.md` file for your project!
+### 2️⃣ Admin Panel
+<img src="images/admin panel.png" width="700">
